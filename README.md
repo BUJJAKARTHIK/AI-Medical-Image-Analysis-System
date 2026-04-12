@@ -38,3 +38,21 @@ AI-Medical-Image-Analysis/
 ```bash
 pip install -r requirements.txt
 
+## ▶️ Run Project
+
+### Train Model
+```bash
+python src/train.py
+
+## 📊 Results
+- Accuracy Graph
+- Loss Graph
+- Model Predictions
+
+## 📸 Screenshots
+
+## ⚠️ Note
+Model file is excluded due to GitHub size limits. You can retrain the model using the dataset.
+
+## 👨‍💻 Author
+Bujja Karthik
