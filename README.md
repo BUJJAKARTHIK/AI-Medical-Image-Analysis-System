@@ -32,3 +32,9 @@ AI-Medical-Image-Analysis/
 ├── app.py
 ├── main.py
 ├── requirements.txt
+
+## ⚙️ Installation
+
+```bash
+pip install -r requirements.txt
+
