@@ -34,15 +34,9 @@ AI-Medical-Image-Analysis/
 ├── requirements.txt
 
 ## ⚙️ Installation
-
-```bash
 pip install -r requirements.txt
 
 ## ▶️ Run Project
-
-### Train Model
-```bash
-python src/train.py
 
 ## 📊 Results
 - Accuracy Graph
