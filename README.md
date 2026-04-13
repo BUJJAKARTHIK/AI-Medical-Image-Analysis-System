@@ -1,3 +1,8 @@
+# 🏥 AI-Powered Medical Image Analysis System
+
+## 📌 Overview
+This project is a deep learning-based system that analyzes chest X-ray images to detect pneumonia.
+
 ## 🎯 Problem Statement
 Manual diagnosis of medical images is time-consuming and prone to human error. This system assists in faster and more accurate detection.
 
@@ -18,7 +23,7 @@ Manual diagnosis of medical images is time-consuming and prone to human error. T
 - Streamlit
 
 ## 📂 Project Structure
-
+```
 AI-Medical-Image-Analysis/
 │
 ├── data/
@@ -28,30 +33,40 @@ AI-Medical-Image-Analysis/
 ├── app.py
 ├── main.py
 ├── requirements.txt
-
+```
 
 ## ⚙️ Installation
 ```bash
 pip install -r requirements.txt
-▶️ Run Project
-Train Model
-python src/train.py
-Run Prediction
-python main.py
-Run Web App
-python -m streamlit run app.py
-📊 Results
-Accuracy Graph
-Loss Graph
-Model Predictions
-📸 Screenshots
+```
 
+## ▶️ Run Project
+
+### Train Model
+```bash
+python src/train.py
+```
+
+### Run Prediction
+```bash
+python main.py
+```
+
+### Run Web App
+```bash
+python -m streamlit run app.py
+```
+
+## 📊 Results
+- Accuracy Graph
+- Loss Graph
+- Model Predictions
+
+## 📸 Screenshots
 (Add screenshots here)
 
-⚠️ Note
-
+## ⚠️ Note
 Model file is excluded due to GitHub size limits. You can retrain the model using the dataset.
 
-👨‍💻 Author
-
+## 👨‍💻 Author
 Bujja Karthik
