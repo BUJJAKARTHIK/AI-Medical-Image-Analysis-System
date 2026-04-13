@@ -63,7 +63,14 @@ python -m streamlit run app.py
 - Model Predictions
 
 ## 📸 Screenshots
-(Add screenshots here)
+### Web App
+![Web App](app.png)
+
+### Accuracy Graph
+![Accuracy](accuracy.png)
+
+### Loss Graph
+![Loss](loss.png)
 
 ## ⚠️ Note
 Model file is excluded due to GitHub size limits. You can retrain the model using the dataset.
